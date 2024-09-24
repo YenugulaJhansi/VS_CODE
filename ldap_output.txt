@@ -1,0 +1,62 @@
+fullname: Doe, Jane
+hiredate: 20200115
+username: janed
+employeestatus: Active
+employeeid: 10001
+managerid: 10001
+##############
+fullname: Lee, Mary
+hiredate: 20221112
+username: maryl
+employeestatus: Active
+employeeid: 10002
+managerid: 10001
+##############
+fullname: Khalid, Abdul
+hiredate: 20221112
+username: abdulk
+employeestatus: Inactive
+employeeid: 10003
+managerid: 10002
+##############
+fullname: Le, Kay
+hiredate: 20210801
+username: kayl
+employeestatus: Active
+employeeid: 10004
+managerid: 10002
+##############
+fullname: Lim, Joe
+hiredate: 20230108
+username: joel
+employeestatus: Inactive
+employeeid: 10005
+managerid: 10001
+##############
+fullname: Nambiar, Kishore
+hiredate: 20201112
+username: kishore
+employeestatus: Active
+employeeid: 10006
+managerid: 10001
+##############
+fullname: Cooper, Xaviar
+hiredate: 20210530
+username: xaviar
+employeestatus: Active
+employeeid: 10007
+managerid: 10006
+##############
+fullname: Doe, John
+hiredate: 20220601
+username: johnd
+employeestatus: Active
+employeeid: 10008
+managerid: 10006
+##############
+fullname: Watson, Jenn
+hiredate: 20230601
+username: jennw
+employeestatus: Active
+employeeid: 10009
+managerid: 10006
